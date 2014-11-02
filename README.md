@@ -2,7 +2,7 @@
 
 Traitement des données ouvertes du [Portail données ouvertes][lien_portail] de la ville de Montréal.
 
-L'objectif de ce dépôt est de partager avec la communauté des données ouvertes de Montréal le travail effectué sur les données relatives au stationnement sur rue.
+L'objectif de ce dépôt est de partager avec la communauté des données ouvertes de Montréal le travail effectué sur les données relatives au **stationnement sur rue**.
 
 Les jeux de données regroupés ici sont:
 
@@ -13,11 +13,13 @@ Les jeux de données regroupés ici sont:
 
 ##Structure
 
-Le dépôt contient 3 dossiers
+Le dépôt contient 3 dossiers:
 
 1. **Download:** ce sont les mêmes fichiers que l'on peut télécharger sur le [Portail données ouvertes][lien_portail].
 2. **Extract:** les mêmes fichiers que le premier dossier, avec l'extraction des fichiers ZIP. Le but étant de simplifier la navigation des données avec l'interface de GitHub.
-3. **Cleanup:** J'ai commencé à regrouper ici mon traitement (ou nettoyage) des données. Exemples: UTF-8 au lieu de ISO, CSV séparés par des **","** au lieu des **"|"**, images PNG au lieu des GIF, etc.
+3. **Cleanup:** J'ai commencé à regrouper ici mon traitement (ou nettoyage) des données. Exemples: UTF-8 au lieu de ISO, CSV séparés par des **","** au lieu des **"|"**, [images PNG][lien_depot_imagerie] au lieu des GIF, etc.
+
+Je vous invite particulièrement à consulter la [traduction manuelle du règlement du stationnement][lien_depot_reglement], avec ses 1910 lignes!
 
 ##Comment contribuer
 
@@ -46,3 +48,5 @@ Je vous invite à *forker* le projet sur GitHub et de soumettre votre contributi
 [lien_portail_arrondissements]: http://donnees.ville.montreal.qc.ca/dataset/polygones-arrondissements
 [lien_portail_licence]: http://donnees.ville.montreal.qc.ca/licence-2014/
 [lien_mudar_ca]: http://www.mudar.ca/
+[lien_depot_imagerie]: 03_cleanup/Imagerie des panneaux/png
+[lien_depot_reglement]: 03_cleanup/Signalisation-description-panneau/panneaux_reglement_2012.csv
