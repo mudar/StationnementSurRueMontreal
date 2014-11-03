@@ -15,9 +15,9 @@ Les jeux de données regroupés ici sont:
 
 Ce dépôt contient 3 dossiers:
 
-1. **Download:** ce sont les mêmes fichiers que l'on peut télécharger sur le [Portail données ouvertes][lien_portail].
-2. **Extract:** les mêmes fichiers que le premier dossier, avec l'extraction des fichiers ZIP. Le but étant de simplifier la navigation des données avec l'interface de GitHub.
-3. **Cleanup:** J'ai commencé à regrouper ici mon traitement (ou nettoyage) des données. Exemples: UTF-8 au lieu de ISO, CSV séparés par des **","** au lieu des **"|"**, [images PNG][lien_depot_imagerie] au lieu des GIF, et surtout la [traduction manuelle du règlement du stationnement][lien_depot_reglement].
+1. [Download][lien_depot_download]: ce sont les mêmes fichiers que l'on peut télécharger sur le [Portail données ouvertes][lien_portail].
+2. [Extract][lien_depot_extract]: les mêmes fichiers que le premier dossier, avec l'extraction des fichiers ZIP. Le but étant de simplifier la navigation des données avec l'interface de GitHub.
+3. [Cleanup][lien_depot_cleanup]: J'ai commencé à regrouper ici mon traitement (ou nettoyage) des données. Exemples: UTF-8 au lieu de ISO, CSV séparés par des **","** au lieu des **"|"**, [images PNG][lien_depot_imagerie] au lieu des GIF, et surtout la [traduction manuelle du règlement du stationnement][lien_depot_reglement].
 
 ##Comment contribuer
 
@@ -108,6 +108,9 @@ Certains sont gratuits, d'autres couvrent le stationnement payant ou hors-rue. P
 [lien_portail_arrondissements]: http://donnees.ville.montreal.qc.ca/dataset/polygones-arrondissements
 [lien_portail_licence]: http://donnees.ville.montreal.qc.ca/licence-2014/
 [lien_github_mudar]: https://github.com/mudar
+[lien_depot_download]: 01_download
+[lien_depot_extract]: 02_extract
+[lien_depot_cleanup]: 03_cleanup
 [lien_depot_imagerie]: 03_cleanup/Imagerie%20des%20panneaux/png
 [lien_depot_reglement]: 03_cleanup/Signalisation-description-panneau/panneaux_reglement_2012.csv
 [projet_montrealparking]: https://play.google.com/store/apps/details?id=com.MichaelGolfi.MontrealParking
