@@ -108,11 +108,11 @@ Certains sont gratuits, d'autres couvrent le stationnement payant ou hors-rue. P
 [lien_portail_arrondissements]: http://donnees.ville.montreal.qc.ca/dataset/polygones-arrondissements
 [lien_portail_licence]: http://donnees.ville.montreal.qc.ca/licence-2014/
 [lien_github_mudar]: https://github.com/mudar
-[lien_depot_download]: 01_download
-[lien_depot_extract]: 02_extract
-[lien_depot_cleanup]: 03_cleanup
-[lien_depot_imagerie]: 03_cleanup/Imagerie%20des%20panneaux/png
-[lien_depot_reglement]: 03_cleanup/Signalisation-description-panneau/panneaux_reglement_2012.csv
+[lien_depot_download]: https://github.com/mudar/StationnementSurRueMontreal/tree/master/01_download
+[lien_depot_extract]: https://github.com/mudar/StationnementSurRueMontreal/tree/master/02_extract
+[lien_depot_cleanup]: https://github.com/mudar/StationnementSurRueMontreal/tree/master/03_cleanup
+[lien_depot_imagerie]: https://github.com/mudar/StationnementSurRueMontreal/tree/master/03_cleanup/Imagerie%20des%20panneaux/png
+[lien_depot_reglement]: https://github.com/mudar/StationnementSurRueMontreal/tree/master/03_cleanup/Signalisation-description-panneau/panneaux_reglement_2012.csv
 [projet_montrealparking]: https://play.google.com/store/apps/details?id=com.MichaelGolfi.MontrealParking
 [projet_parkcatcher]: https://github.com/mudar/ParkCatcher
 [projet_appcto]: http://www.appcto.com/?page=projects&id=1
