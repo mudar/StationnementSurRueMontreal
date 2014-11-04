@@ -53,19 +53,19 @@ Certains sont gratuits, d'autres couvrent le stationnement payant ou hors-rue. P
 
 Extrait de la [licence ouverte][lien_portail_licence] du [Portail données][lien_portail] ouvertes de la Ville de Montréal:
 
-> ###Libres de réutilisation
-> Vous êtes autorisé à :
-> 
-> * **Partager** — copier, distribuer et communiquer les données et les contenus par tous moyens et sous tous formats
-> * **Adapter** — remixer, transformer et créer à partir des données et des contenus pour toute utilisation, y compris commerciale.
-> 
-> La Ville de Montréal ne peux retirer les autorisations concédées par la licence tant que vous appliquez les termes de cette licence.
-> 
-> ###Paternité – Ville de Montréal
-> Selon les conditions suivantes :
-> 
-> * **Attribution de paternité** — Vous devez **créditer** les données et les contenus, intégrer un lien vers la licence et **indiquer** si des modifications ont été effectuées aux données et aux contenus. Vous devez indiquer ces informations par tous les moyens possibles, par exemple un hyperlien, mais vous ne pouvez pas suggérer que la Ville de Montréal vous soutient ou soutient la façon dont vous avez utilisé ses données et ses contenus.
-> * **Pas de restrictions supplémentaires** — Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser les données et les contenus dans les conditions décrites par la licence.
+###Libres de réutilisation
+Vous êtes autorisé à :
+
+* **Partager** — copier, distribuer et communiquer les données et les contenus par tous moyens et sous tous formats
+* **Adapter** — remixer, transformer et créer à partir des données et des contenus pour toute utilisation, y compris commerciale.
+
+La Ville de Montréal ne peux retirer les autorisations concédées par la licence tant que vous appliquez les termes de cette licence.
+
+###Paternité – Ville de Montréal
+Selon les conditions suivantes :
+ 
+* **Attribution de paternité** — Vous devez **créditer** les données et les contenus, intégrer un lien vers la licence et **indiquer** si des modifications ont été effectuées aux données et aux contenus. Vous devez indiquer ces informations par tous les moyens possibles, par exemple un hyperlien, mais vous ne pouvez pas suggérer que la Ville de Montréal vous soutient ou soutient la façon dont vous avez utilisé ses données et ses contenus.
+* **Pas de restrictions supplémentaires** — Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser les données et les contenus dans les conditions décrites par la licence.
 
 
     Creative Commons Corporation ("Creative Commons") is not a law firm and
