@@ -23,7 +23,7 @@ Ce dépôt contient 3 dossiers:
 
 Je vous invite à *forker* le projet sur GitHub et de soumettre votre contribution avec un *pull request*.
 
-Plusieurs projets exploitent ces mêmes données, les grands esprits se rencontrent! Ce serait dans l'intérêt de toute la communauté de collaborer sur le travail initial de nettoyage et restrucation de ces données ouvertes:
+Plusieurs projets exploitent ces mêmes données, les grands esprits se rencontrent! Ce serait dans l'intérêt de toute la communauté de collaborer sur le travail initial de nettoyage et restructuration de ces données ouvertes:
  
 * Pour la ville: un meilleur processus d'export des données.
 * Pour les utilisateurs Montréalais: plus d'applications, de meilleure qualité.
@@ -42,7 +42,7 @@ Voici une liste de quelques projets qui proposent (ou vont proposer) des solutio
 * [P$ Mobile Service](https://play.google.com/store/apps/details?id=tc.tc.scsm.phonegap) par Stationnement de Montréal.
 * [Info neige](http://www.heritagesoftware.ca/portfolio-item/defi-info-neige-2014/) par Les Logiciels Heritage Inc.
 
-Certains sont gratuits, d'autres couvrent le stationnement payant ou hors-rue. Personellement, je considère que la valeur ajoutée de ces projets n'est pas dans l'analyse des données, mais dans les fonctionnalités spécifiques à chaque application. C'est pour cette raison que je propose une collaboration entre collègues plutôt qu'une vaine concurrence qui consiste à laisser les obstacles déjà franchis dans le chemin des autres développeurs.
+Certains sont gratuits, d'autres couvrent le stationnement payant ou hors-rue. Personnellement, je considère que la valeur ajoutée de ces projets n'est pas dans l'analyse des données, mais dans les fonctionnalités spécifiques à chaque application. C'est pour cette raison que je propose une collaboration entre collègues plutôt qu'une vaine concurrence qui consiste à laisser les obstacles déjà franchis dans le chemin des autres développeurs.
 
 ##Credits
 
