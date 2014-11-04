@@ -1,6 +1,6 @@
 ##Stationnement sur rue
 
-Traitement des données ouvertes du [Portail données ouvertes][lien_portail] de la ville de Montréal.
+Traitement des données ouvertes du [Portail données ouvertes][lien_portail_licence] de la ville de Montréal.
 
 L'objectif de ce dépôt est de partager avec la communauté des données ouvertes de Montréal le travail effectué sur les données relatives au **stationnement sur rue**.
 
@@ -44,12 +44,29 @@ Voici une liste de quelques projets qui proposent (ou vont proposer) des solutio
 
 Certains sont gratuits, d'autres couvrent le stationnement payant ou hors-rue. Personnellement, je considère que la valeur ajoutée de ces projets n'est pas dans l'analyse des données, mais dans les fonctionnalités spécifiques à chaque application. C'est pour cette raison que je propose une collaboration entre collègues plutôt qu'une vaine concurrence qui consiste à laisser les obstacles déjà franchis dans le chemin des autres développeurs.
 
-##Credits
+##Crédits
 
 * Dépôt maintenu par [Mudar Noufal][lien_github_mudar]  &lt;<mn@mudar.ca>&gt;
-* Un grand merci à l'équipe des données ouvertes de la ville de Montréal: Diane Mercier, Luc Lévesque, André Jr Clément, Michel Lanthier, Service de la concertation des arrondissements et des ressources matérielles.
+* Un grand merci à l'équipe des données ouvertes de la ville de Montréal: Diane Mercier, Sylvain S. Hébert, Luc Lévesque, André Jr Clément, Michel Lanthier, Service de la concertation des arrondissements et des ressources matérielles, Bureau de la ville intelligente et numérique.
 
-##[Licence ouverte Creative Commons CC-BY 4.0][lien_portail_licence]
+##Licence ouverte Creative Commons CC-BY 4.0
+
+Extrait de la [licence ouverte][lien_portail_licence] du [Portail données][lien_portail] ouvertes de la Ville de Montréal:
+
+> ###Libres de réutilisation
+> Vous êtes autorisé à :
+> 
+> * **Partager** — copier, distribuer et communiquer les données et les contenus par tous moyens et sous tous formats
+> * **Adapter** — remixer, transformer et créer à partir des données et des contenus pour toute utilisation, y compris commerciale.
+> 
+> La Ville de Montréal ne peux retirer les autorisations concédées par la licence tant que vous appliquez les termes de cette licence.
+> 
+> ###Paternité – Ville de Montréal
+> Selon les conditions suivantes :
+> 
+> * **Attribution de paternité** — Vous devez **créditer** les données et les contenus, intégrer un lien vers la licence et **indiquer** si des modifications ont été effectuées aux données et aux contenus. Vous devez indiquer ces informations par tous les moyens possibles, par exemple un hyperlien, mais vous ne pouvez pas suggérer que la Ville de Montréal vous soutient ou soutient la façon dont vous avez utilisé ses données et ses contenus.
+> * **Pas de restrictions supplémentaires** — Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser les données et les contenus dans les conditions décrites par la licence.
+
 
     Creative Commons Corporation ("Creative Commons") is not a law firm and
     does not provide legal services or legal advice. Distribution of
