@@ -16,8 +16,17 @@ Les jeux de données regroupés ici sont:
 Ce dépôt contient 3 dossiers:
 
 1. [Download][lien_depot_download]: ce sont les mêmes fichiers que l'on peut télécharger sur le [Portail données ouvertes][lien_portail].
-2. [Extract][lien_depot_extract]: les mêmes fichiers que le premier dossier, avec l'extraction des fichiers ZIP. Le but étant de simplifier la navigation des données avec l'interface de GitHub.
-3. [Cleanup][lien_depot_cleanup]: J'ai commencé à regrouper ici mon traitement (ou nettoyage) des données. Exemples: UTF-8 au lieu de ISO, CSV séparés par des **","** au lieu des **"|"**, [images PNG][lien_depot_imagerie] au lieu des GIF, et surtout la [traduction manuelle du règlement du stationnement][lien_depot_reglement].
+2. [Extract][lien_depot_extract]: les mêmes fichiers que le premier dossier, avec l'extraction des fichiers ZIP. Le but étant de simplifier le téléchargement et la navigation des données avec l'interface de GitHub.
+3. [Cleanup][lien_depot_cleanup]: J'ai commencé à regrouper ici mon traitement (ou nettoyage) des données, dans l'objéctif d
+
+##Modifications
+
+Vous pouvez consulter la liste détaillée des modifications dans [l'historique][lien_depot_commits] du dépôt:
+
+* Le fichier le plus intéressant est celui de la [traduction manuelle du règlement du stationnement][lien_depot_reglement].
+* Signalisation: [Fichiers CSV][lien_depot_signalisation] séparés par des virgules **","** au lieu des **"|"** moins standard. Encodage UTF-8 au lieu de ISO-8859-15. Nommenclature à base de **ID-CODE** des arrondissements.
+* Imagerie des panneaux en [fomat PNG][lien_depot_imagerie] au lieu des GIF/PNG. Résolution plus élévée: 200px de hauteur au lieu de 75px. Sépararation des panneaux de stationnement des panneaux génériques.
+* Export de la [Géobase][lien_depot_geobase] en format base de données MySQL.
 
 ##Comment contribuer
 
@@ -126,10 +135,13 @@ Selon les conditions suivantes :
 [lien_portail_arrondissements]: http://donnees.ville.montreal.qc.ca/dataset/polygones-arrondissements
 [lien_portail_licence]: http://donnees.ville.montreal.qc.ca/licence-2014/
 [lien_github_mudar]: https://github.com/mudar
+[lien_depot_commits]: https://github.com/mudar/StationnementSurRueMontreal/commits/master
 [lien_depot_download]: https://github.com/mudar/StationnementSurRueMontreal/tree/master/01_download
 [lien_depot_extract]: https://github.com/mudar/StationnementSurRueMontreal/tree/master/02_extract
 [lien_depot_cleanup]: https://github.com/mudar/StationnementSurRueMontreal/tree/master/03_cleanup
 [lien_depot_imagerie]: https://github.com/mudar/StationnementSurRueMontreal/tree/master/03_cleanup/Imagerie%20des%20panneaux/png
+[lien_depot_signalisation]: https://github.com/mudar/StationnementSurRueMontreal/tree/master/03_cleanup/Signalisations
+[lien_depot_geobase]: https://github.com/mudar/StationnementSurRueMontreal/tree/master/03_cleanup/Geobase
 [lien_depot_reglement]: https://github.com/mudar/StationnementSurRueMontreal/tree/master/03_cleanup/Signalisation-description-panneau/panneaux_reglement_2012.csv
 [projet_montrealparking]: https://play.google.com/store/apps/details?id=com.MichaelGolfi.MontrealParking
 [projet_parkcatcher]: https://github.com/mudar/ParkCatcher
