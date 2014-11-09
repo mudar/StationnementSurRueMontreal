@@ -17,7 +17,7 @@ Ce dépôt contient 3 dossiers:
 
 1. [Download][lien_depot_download]: ce sont les mêmes fichiers que l'on peut télécharger sur le [Portail données ouvertes][lien_portail].
 2. [Extract][lien_depot_extract]: les mêmes fichiers que le premier dossier, avec l'extraction des fichiers ZIP. Le but étant de simplifier le téléchargement et la navigation des données avec l'interface de GitHub.
-3. [Cleanup][lien_depot_cleanup]: J'ai commencé à regrouper ici mon traitement (ou nettoyage) des données, dans l'objéctif d
+3. [Cleanup][lien_depot_cleanup]: J'ai commencé à regrouper ici mon traitement (ou nettoyage) des données.
 
 ##Modifications
 
