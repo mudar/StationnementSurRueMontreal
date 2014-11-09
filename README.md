@@ -24,7 +24,7 @@ Ce dépôt contient 3 dossiers:
 Vous pouvez consulter la liste détaillée des modifications dans [l'historique][lien_depot_commits] du dépôt:
 
 * Le fichier le plus intéressant est celui de la [traduction manuelle du règlement du stationnement][lien_depot_reglement].
-* Signalisation: [Fichiers CSV][lien_depot_signalisation] séparés par des virgules **","** au lieu des **"|"** moins standard. Encodage UTF-8 au lieu de ISO-8859-15. Nommenclature à base de **ID-CODE** des arrondissements.
+* Signalisation: [Fichiers CSV][lien_depot_signalisation] séparés par des virgules **","** au lieu des **"|"** moins standard. Encodage UTF-8 au lieu de ISO-8859-15. Nomenclature à base de **ID-CODE** des arrondissements.
 * Imagerie des panneaux en [fomat PNG][lien_depot_imagerie] au lieu des GIF/PNG. Résolution plus élévée: 200px de hauteur au lieu de 75px. Sépararation des panneaux de stationnement des panneaux génériques.
 * Export de la [Géobase][lien_depot_geobase] en format base de données MySQL.
 
