@@ -53,10 +53,22 @@
 <li>
 <a href="https://github.com/mudar/StationnementSurRueMontreal/tree/master/01_download">Download</a>: ce sont les mêmes fichiers que l'on peut télécharger sur le <a href="http://donnees.ville.montreal.qc.ca/">Portail données ouvertes</a>.</li>
 <li>
-<a href="https://github.com/mudar/StationnementSurRueMontreal/tree/master/02_extract">Extract</a>: les mêmes fichiers que le premier dossier, avec l'extraction des fichiers ZIP. Le but étant de simplifier la navigation des données avec l'interface de GitHub.</li>
+<a href="https://github.com/mudar/StationnementSurRueMontreal/tree/master/02_extract">Extract</a>: les mêmes fichiers que le premier dossier, avec l'extraction des fichiers ZIP. Le but étant de simplifier le téléchargement et la navigation des données avec l'interface de GitHub.</li>
 <li>
-<a href="https://github.com/mudar/StationnementSurRueMontreal/tree/master/03_cleanup">Cleanup</a>: J'ai commencé à regrouper ici mon traitement (ou nettoyage) des données. Exemples: UTF-8 au lieu de ISO, CSV séparés par des <strong>","</strong> au lieu des <strong>"|"</strong>, <a href="https://github.com/mudar/StationnementSurRueMontreal/tree/master/03_cleanup/Imagerie%20des%20panneaux/png">images PNG</a> au lieu des GIF, et surtout la <a href="https://github.com/mudar/StationnementSurRueMontreal/tree/master/03_cleanup/Signalisation-description-panneau/panneaux_reglement_2012.csv">traduction manuelle du règlement du stationnement</a>.</li>
+<a href="https://github.com/mudar/StationnementSurRueMontreal/tree/master/03_cleanup">Cleanup</a>: J'ai commencé à regrouper ici mon traitement (ou nettoyage) des données, dans l'objéctif d</li>
 </ol>
+
+<h2>
+<a id="modifications" class="anchor" href="#modifications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Modifications</h2>
+
+<p>Vous pouvez consulter la liste détaillée des modifications dans <a href="https://github.com/mudar/StationnementSurRueMontreal/commits/master">l'historique</a> du dépôt:</p>
+
+<ul>
+<li>Le fichier le plus intéressant est celui de la <a href="https://github.com/mudar/StationnementSurRueMontreal/tree/master/03_cleanup/Signalisation-description-panneau/panneaux_reglement_2012.csv">traduction manuelle du règlement du stationnement</a>.</li>
+<li>Signalisation: <a href="https://github.com/mudar/StationnementSurRueMontreal/tree/master/03_cleanup/Signalisations">Fichiers CSV</a> séparés par des virgules <strong>","</strong> au lieu des <strong>"|"</strong> moins standard. Encodage UTF-8 au lieu de ISO-8859-15. Nomenclature à base de <strong>ID-CODE</strong> des arrondissements.</li>
+<li>Imagerie des panneaux en <a href="https://github.com/mudar/StationnementSurRueMontreal/tree/master/03_cleanup/Imagerie%20des%20panneaux/png">fomat PNG</a> au lieu des GIF/PNG. Résolution plus élévée: 200px de hauteur au lieu de 75px. Sépararation des panneaux de stationnement des panneaux génériques.</li>
+<li>Export de la <a href="https://github.com/mudar/StationnementSurRueMontreal/tree/master/03_cleanup/Geobase">Géobase</a> en format base de données MySQL.</li>
+</ul>
 
 <h2>
 <a id="comment-contribuer" class="anchor" href="#comment-contribuer" aria-hidden="true"><span class="octicon octicon-link"></span></a>Comment contribuer</h2>
