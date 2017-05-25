@@ -1,4 +1,4 @@
-##Stationnement sur rue
+## Stationnement sur rue
 
 Traitement des données ouvertes du [Portail données ouvertes][lien_portail_licence] de la ville de Montréal.
 
@@ -11,7 +11,7 @@ Les jeux de données regroupés ici sont:
 * [Arrondissements de la Ville de Montréal][lien_portail_arrondissements]
 * [Stationnements gratuits (déneigement)][lien_portail_deneigement]
 
-##Structure
+## Structure
 
 Ce dépôt contient 3 dossiers:
 
@@ -19,7 +19,7 @@ Ce dépôt contient 3 dossiers:
 2. [Extract][lien_depot_extract]: les mêmes fichiers que le premier dossier, avec l'extraction des fichiers ZIP. Le but étant de simplifier le téléchargement et la navigation des données avec l'interface de GitHub.
 3. [Cleanup][lien_depot_cleanup]: J'ai commencé à regrouper ici mon traitement (ou nettoyage) des données.
 
-##Modifications
+## Modifications
 
 Vous pouvez consulter la liste détaillée des modifications dans [l'historique][lien_depot_commits] du dépôt:
 
@@ -28,7 +28,7 @@ Vous pouvez consulter la liste détaillée des modifications dans [l'historique]
 * Imagerie des panneaux en [fomat PNG][lien_depot_imagerie] au lieu des GIF/PNG. Résolution plus élévée: 200px de hauteur au lieu de 75px. Sépararation des panneaux de stationnement des panneaux génériques.
 * Export de la [Géobase][lien_depot_geobase] en format base de données MySQL.
 
-##Comment contribuer
+## Comment contribuer
 
 Je vous invite à *forker* le projet sur GitHub et de soumettre votre contribution avec un *pull request*.
 
@@ -38,7 +38,7 @@ Plusieurs projets exploitent ces mêmes données, les grands esprits se rencontr
 * Pour les utilisateurs Montréalais: plus d'applications, de meilleure qualité.
 * Pour les développeurs: des données de meilleure qualité et plus facilement exploitables, des mises à jour compatibles.
 
-##Projets actuels sur le stationnement
+## Projets actuels sur le stationnement
 
 Voici une liste de quelques projets qui proposent (ou vont proposer) des solutions pour le stationnement à Montréal:
 
@@ -53,16 +53,16 @@ Voici une liste de quelques projets qui proposent (ou vont proposer) des solutio
 
 Certains sont gratuits, d'autres couvrent le stationnement payant ou hors-rue. Personnellement, je considère que la valeur ajoutée de ces projets n'est pas dans l'analyse des données, mais dans les fonctionnalités spécifiques à chaque application. C'est pour cette raison que je propose une collaboration entre collègues plutôt qu'une vaine concurrence qui consiste à laisser les obstacles déjà franchis dans le chemin des autres développeurs.
 
-##Crédits
+## Crédits
 
 * Dépôt maintenu par [Mudar Noufal][lien_github_mudar]  &lt;<mn@mudar.ca>&gt;
 * Un grand merci à l'équipe des données ouvertes de la ville de Montréal: Diane Mercier, Sylvain S. Hébert, Luc Lévesque, André Jr Clément, Michel Lanthier, Service de la concertation des arrondissements et des ressources matérielles, Bureau de la ville intelligente et numérique.
 
-##Licence ouverte
+## Licence ouverte
 
 Extrait de la [licence ouverte][lien_portail_licence] du [Portail données][lien_portail] ouvertes de la Ville de Montréal:
 
-####Libres de réutilisation
+#### Libres de réutilisation
 Vous êtes autorisé à :
 
 * **Partager** — copier, distribuer et communiquer les données et les contenus par tous moyens et sous tous formats
@@ -70,13 +70,13 @@ Vous êtes autorisé à :
 
 La Ville de Montréal ne peux retirer les autorisations concédées par la licence tant que vous appliquez les termes de cette licence.
 
-####Paternité – Ville de Montréal
+#### Paternité – Ville de Montréal
 Selon les conditions suivantes :
  
 * **Attribution de paternité** — Vous devez **créditer** les données et les contenus, intégrer un lien vers la licence et **indiquer** si des modifications ont été effectuées aux données et aux contenus. Vous devez indiquer ces informations par tous les moyens possibles, par exemple un hyperlien, mais vous ne pouvez pas suggérer que la Ville de Montréal vous soutient ou soutient la façon dont vous avez utilisé ses données et ses contenus.
 * **Pas de restrictions supplémentaires** — Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser les données et les contenus dans les conditions décrites par la licence.
 
-####Creative Commons CC-BY 4.0
+#### Creative Commons CC-BY 4.0
 
     Creative Commons Corporation ("Creative Commons") is not a law firm and
     does not provide legal services or legal advice. Distribution of
